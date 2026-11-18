@@ -1,0 +1,6 @@
+analysis/.cache/
+uploads/
+tests/
+*.log
+.env
+__pycache__/
